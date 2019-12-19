@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_control"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Control_H.Appliances"/>
+        <item
+            android:id="@+id/nav_home_status"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Home_status" />
+    </group>
+
+    <item android:title="UserInfo">
+        <menu>
+            <item
+                android:id="@+id/nav_userinfo"
+                android:icon="@drawable/ic_menu_share"
+                android:title="UserInfo" />
+        </menu>
+    </item>
+
+</menu>
