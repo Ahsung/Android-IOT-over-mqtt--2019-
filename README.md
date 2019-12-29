@@ -1,8 +1,8 @@
 # IOT 
-*using Mqtt_mosquitto
+* using Mqtt_mosquitto
 
-*Android <> PHP <>  database (mysql)
+* Android <> PHP <>  database (mysql)
 
-Android < mqtt topic connect > mosquitto_broker
+* Android < mqtt topic connect > mosquitto_broker
 
-need PHP server program, database program
+* need PHP server program, database program
