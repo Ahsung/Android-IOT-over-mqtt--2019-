@@ -8,4 +8,6 @@ __using Mqtt_mosquitto
 
 * need PHP server program, database program
 
-* Api : 29 
+* Api : 29, 28
+
+* Need sdk 10.0 , 9.0
