@@ -7,3 +7,5 @@ __using Mqtt_mosquitto
 * Android < mqtt topic connect > mosquitto_broker
 
 * need PHP server program, database program
+
+* Api : 29 
