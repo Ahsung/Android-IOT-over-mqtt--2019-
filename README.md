@@ -11,3 +11,5 @@ __using Mqtt_mosquitto
 * Api : 29, 28
 
 * Need sdk 10.0 , 9.0
+
+* you must modify IpPath class to run
