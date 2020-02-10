@@ -12,4 +12,4 @@
 
 * Need sdk 10.0 , 9.0
 
-* you must modify IpPath class to run
+* You must modify IpPath class to run
