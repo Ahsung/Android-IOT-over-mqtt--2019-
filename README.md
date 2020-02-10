@@ -6,7 +6,7 @@
 
 * Android < mqtt topic connect > mosquitto_broker
 
-* need PHP server program, database program
+* need PHP server program, with database
 
 * Api : 29, 28
 
