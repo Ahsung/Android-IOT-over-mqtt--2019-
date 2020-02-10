@@ -1,4 +1,4 @@
-## IOT with Android 
+## IOT
 # __using Mqtt_mosquitto
 
 --------------------------------------
